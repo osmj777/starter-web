@@ -2,14 +2,14 @@
 
 
 This repository is for showing how Git and GitHub work
-##Introduccion 
+## Introduccion 
 
 Este reposotorio es para hacer pruebas git
-##Desarrollo
+## Desarrollo
 
 Actual video: 44
 
-##Conclusion
+## Conclusion
 
 Curso de git a la mitad 
 
