@@ -9,10 +9,10 @@ os777
 
 ## Introduccion 
 
-Este reposotorio es para hacer pruebas git
+Este reposotorio es para hacer pruebas en este momento se usa el comando git diff / difftool
 ## Desarrollo
 
-Actual video: 44
+Actual video: 48
 
 ## Conclusion
 
