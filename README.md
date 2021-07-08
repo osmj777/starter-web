@@ -27,3 +27,6 @@ cdmx
 
 Sample website with plenty of files for demos
 
+### Copyright
+
+2014 Curso git
