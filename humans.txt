@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	oscar 		analyst	odadw@daw
 
 # THANKS
 
